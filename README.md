@@ -1,11 +1,5 @@
 <div id="Kg4E" align="center">
   <h3> Salut, Je suis <a href="https://phantom.fr.to">KG4E</a> 👋 </h3>
-  <br>
-  <a href="https://discord.com/users/243838319291662337"><img height="80px" src="https://discord.c99.nl/widget/theme-4/243838319291662337.png"/></a>
-  <br><br>
-  <a href="https://phantom.fr.to"><img src="https://img.shields.io/website?label=phantom.fr.to&style=for-the-badge&url=https%3A%2F%2Fphantom.fr.to"></a>
-  <a href="https://phantom.sellix.io"><img src="https://img.shields.io/badge/SELLIX-PHANTOM.SELLIX.IO-5e40e4?style=for-the-badge"></a>
-  <a href="https://phantom.fr.to/verify"><img src="https://img.shields.io/badge/contact-click me-05babf?style=for-the-badge"></a>
 
 ---
 
