@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ À propos de moi
 
-- 💻 Président de **[SOON](https://google.com)**
+- 💻 Président de ***[SOON](https://google.com)**
 
-- 🚀 Créateur du BOT discord **[Garett](https://google.com)**
+- 🚀 Créateur du BOT discord **[***](https://google.com)**
 
 - 📫 Voici mon adresse mail perso **contact@gusse.cc**
 
